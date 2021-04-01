@@ -1,0 +1,28 @@
+.Card {
+    display: inline-block;
+    margin : 1.2rem 1rem;
+    padding : 1.2rem;
+    width : 30rem;
+    height : 45rem;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    border: 1px solid #bdbaba;
+    box-shadow: 0.3rem 0.4rem 0.3rem #aaa;
+}
+
+.Card p {
+    padding: 0.3rem;
+}
+
+.ImageContainer {
+    width: 100%;
+    height : 60%;
+    margin : 0.2rem auto;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.Img {
+    width: 100%;
+    height: 100%;
+}

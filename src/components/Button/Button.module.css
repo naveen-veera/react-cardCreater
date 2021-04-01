@@ -1,0 +1,15 @@
+
+.Button {
+    padding : 1.2rem 2rem;
+    border-radius: 3px;
+    border : 1px solid #333;
+    background-color: rgb(61, 61, 136);
+    color: white;
+    outline: none;
+    box-shadow: 0.3rem 0.4rem 0.3rem rgb(155, 153, 153);
+}
+
+.Button:hover {
+    transition: all 250ms;
+    box-shadow: none;
+}

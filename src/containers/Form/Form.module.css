@@ -1,0 +1,10 @@
+
+.Container {
+    border : 2px solid #6d616e;
+    width : 60%;
+    margin : auto;
+    padding : 2rem;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    box-shadow: 0.3rem 0.5rem 0.3rem rgb(211, 208, 208);
+}
